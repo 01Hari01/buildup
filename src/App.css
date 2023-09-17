@@ -12,7 +12,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.hero-banner-img {
+  position: absolute;
+  right: 40px;
+  top: 0px;
+  width: 500px;
+  height: 600px;
+  margin-top: -330px;
 
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
